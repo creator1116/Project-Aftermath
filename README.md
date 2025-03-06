@@ -13,13 +13,25 @@
 7. Endgame Content & Activities
 8. Post-Launch Expansions & DLCs
 9. Hiring Artists on a Budget
-10. New Features
+10. Additional Survival Mechanics
+11. Dynamic Weather & Environment
+12. Advanced AI Systems
+13. Base-Building & Settlement Management
+14. Vehicles & Transportation
+15. Dynamic Events & World Evolution
+16. Psychological Horror Elements
+17. Unique Player Interactions & Roleplay Mechanics
+18. Crafting & Economy System
+19. AI Survivor Interactions & Relationships
+20. Customization & Progression Systems
+21. Secret Locations & Hidden Lore
+22. New Features
 
 ---
 
 # 1. Game Overview
 
-**Project Aftermath** is an expansive AAA zombie apocalypse survival game that immerses players in a realistic, open-world environment. The game emphasizes survival mechanics, intricate storytelling, and deep character progression.
+**Project Aftermath** is a AAA open-world zombie survival game that combines deep RPG mechanics, intense combat, realistic survival systems, and a living, breathing world. Players must navigate a vast and unforgiving environment, scavenge for resources, form alliances, and make tough moral choices that impact the world around them. The game features an evolving narrative, dynamic weather, and a persistent multiplayer component.
 
 ---
 
@@ -27,18 +39,24 @@
 
 ### The Outbreak
 
-- **Origin:** A genetically engineered virus, initially designed for medical advancements, mutates and becomes highly contagious, leading to the rapid spread of the infection.
-- **Patient Zero:** An incident at a biotech facility results in the first human infection, marking the beginning of the global pandemic.
+- **Origin:** A secret bioweapon project, codenamed "Genesis," intended to create super soldiers, leads to an outbreak after sabotage.
+- **Mutation Variants:** Different strains of the virus have unique effects on the infected, creating diverse enemy types.
+- **Contaminated Zones:** Some areas remain highly infected, requiring special gear to explore safely.
 
-### World Collapse
+### Survivor Factions
 
-- **Governments' Response:** Initial attempts to contain the virus fail, leading to widespread panic, martial law, and eventual societal collapse.
-- **Survivor Groups:** Various factions emerge, each with distinct philosophies and survival strategies.
+- **The Vanguard:** A military remnant trying to restore order through authoritarian rule.
+- **The Forsaken:** A ruthless gang of raiders who believe the apocalypse is an opportunity for survival of the fittest.
+- **Echo Syndicate:** A secretive faction working behind the scenes, claiming to know the origins of the outbreak.
+- **Nomads:** Independent survivors who value freedom and self-reliance, often trading with other groups.
 
-### The Infected
+### Infected Evolution
 
-- **Stages of Infection:** The virus affects individuals differently, resulting in various zombie types with unique behaviors and weaknesses.
-- **Mutations:** Over time, the virus evolves, creating more formidable and unpredictable adversaries.
+- **Stage 1:** Freshly turned, aggressive but weak.
+- **Stage 2:** Enhanced reflexes and night vision.
+- **Stage 3:** Large, grotesque mutations with powerful attacks.
+- **Stage 4:** Highly intelligent, able to coordinate with other infected.
+- **Stage 5:** Hive-mind Infected, controlling others and altering environments.
 
 ---
 
@@ -46,100 +64,83 @@
 
 ### Main Campaign
 
-- **Prologue:** Players experience the initial outbreak, making critical decisions that influence their starting conditions.
-- **Act 1: Survival Instincts** – Establish a safe haven and gather essential supplies.
-- **Act 2: Faction Alliances** – Interact with various survivor groups, deciding whom to trust or oppose.
-- **Act 3: Uncovering the Truth** – Investigate the origins of the virus and seek a potential cure.
+- **Act 1: The Awakening** – Escape quarantine and find a safe zone.
+- **Act 2: Fractured Alliances** – Choose which faction to align with or betray.
+- **Act 3: The Cure or the Chaos** – Find a rumored cure or decide to harness the virus for personal power.
+- **Act 4: The Final War** – Engage in an all-out war between factions, infected, and players.
 
-### Side Quests
+### Side Quests & Random Events
 
-- **Rescue Missions:** Assist stranded survivors, offering rewards and potential allies.
-- **Resource Hunts:** Locate rare materials to enhance equipment and fortifications.
-- **Bounty Hunts:** Eliminate notorious threats in exchange for valuable rewards.
+- **Lost Convoys:** Discover abandoned military trucks with rare loot.
+- **Distress Signals:** Investigate random distress calls, which may be traps or legitimate survivors.
+- **Bounty System:** Eliminate hostile targets for rewards.
+- **Dynamic Settlements:** Small survivor outposts that can grow or be destroyed based on player interactions.
+- **Deep Lore Discoveries:** Uncover hidden records, voice logs, and encrypted messages about the outbreak's true cause.
 
 ---
 
 # 4. RPG-Style Skill Systems
 
-### Character Progression
+### Expanded Skill Trees
 
-- **Experience Points (XP):** Earned through combat, exploration, and quest completion.
-- **Leveling System:** Each level grants skill points and unlocks new abilities.
-
-### Skill Trees
-
-- **Combat Skills:** Enhance proficiency with various weapons, unlock special attacks, and improve defensive maneuvers.
-- **Survival Skills:** Improve abilities such as crafting, stealth, foraging, and medical knowledge.
-- **Social Skills:** Boost charisma, negotiation tactics, and leadership qualities to influence NPCs and faction dynamics.
-
-### Perks System
-
-- **Unique Abilities:** Special traits that provide gameplay advantages, such as increased stamina, resistance to infection, or enhanced perception.
-- **Unlock Conditions:** Achieved by meeting specific in-game milestones or completing particular challenges.
+- **Tactical Combat:** Dual-wielding, weapon maintenance, special attack combos.
+- **Survivalist:** Trapping, fire-starting, purifying water.
+- **Engineering:** Creating automated defenses, repairing vehicles.
+- **Medical Expertise:** Surgery, field medicine, vaccination research.
+- **Psychological Warfare:** Intimidation, persuasion, interrogation techniques.
+- **Stealth & Espionage:** Lockpicking, hacking, silent takedowns.
 
 ---
 
 # 5. Multiplayer Modes & Features
 
-**Project Aftermath** offers a robust multiplayer experience, blending cooperative and competitive elements within a persistent online world.
+### PvP & PvE Expansion
 
-### Core Features
-
-- **Persistent Online World:** Servers host evolving environments with player-built settlements and dynamic events.
-- **Cross-Play Support:** Seamless gameplay across PC, Xbox, and PlayStation platforms.
-- **Server Options:** Choose between official servers with standard settings or private servers with customizable rules.
-- **Voice Chat:** Proximity-based communication enhances immersion and strategy.
-
-### Game Modes
-
-- **Survival Mode (PvE/PvP)** – Open-world experience focusing on base-building, resource management, and interactions with other players and NPCs.
-- **Horde Mode (Co-op PvE)** – Team up to withstand successive waves of infected in various challenging environments.
-- **Extraction Mode (PvPvE)** – Compete against players and environmental threats to secure valuable resources and reach extraction points.
-- **Faction Wars (Large-Scale PvP)** – Participate in territorial battles, fortify bases, and strategize for control over key regions.
-- **Hardcore Mode (Permadeath)** – Experience heightened realism with permanent character death, no HUD, and scarce resources.
-- **Co-op Campaign** – Join forces with up to four players to tackle the main storyline, with choices impacting the game's world and narrative.
+- **Betrayal System:** Players can betray teammates but at the cost of their reputation.
+- **Faction-Based Warfare:** Massive battles between player-led factions.
+- **Dynamic Safe Zones:** These can be taken over or lost depending on player activity.
+- **Raid Mechanics:** Large-scale coordinated attacks against heavily fortified areas.
 
 ---
 
 # 6. Weapons & Equipment
 
-### Melee Weapons
+### Expanded Arsenal
 
-- **One-Handed:** Knives, hatchets, lead pipes, combat tomahawks.
-- **Two-Handed:** Katanas, fire axes, sledgehammers, baseball bats.
-- **Improvised:** Chainsaws, crowbars, spiked bats, broken glass bottles.
-- **Craftable:** Modify machetes, weld saw blades onto bats.
-
-### Firearms
-
-- **Handguns:** Glock 19, Desert Eagle, Colt 1911, SIG P226.
-- **Shotguns:** Remington 870, Mossberg 500, SPAS-12.
-- **Assault Rifles:** AK-47, AR-15, M4A1, HK416.
-- **Sniper Rifles:** Barrett .50 Cal, Remington 700, Dragunov SVD.
-- **Explosives:** Frag grenades, C4, RPG-7, Molotov cocktails.
+- **Custom Weapon Crafting:** Modify weapons with attachments and make-shift enhancements.
+- **Firearms Degradation:** Guns wear down over time, requiring maintenance.
+- **Throwable Weapons:** Smoke grenades, tripwire bombs, EMPs for electronic disruption.
+- **Primitive Weapons:** Crossbows, handmade spears, makeshift bows for silent takedowns.
 
 ---
 
-# 9. Hiring Artists on a Budget
+# 7. Endgame Content & Activities
 
-Here are some budget-friendly freelance artists on Fiverr who can assist with game development:
-
-- **finnfirrior** (4.9 rating, 2,000+ reviews) – Graphic and logo design.
-- **harveydentmd** (5.0 rating, 4,000+ reviews) – Pixel illustration.
-- **illustrate_vnzl** (4.9 rating, 1,000+ reviews) – Character design.
-- **saitastudio** (4.9 rating, 3,000+ reviews) – Graphic design and illustration.
-- **games_apps** (5.0 rating, 1,000+ reviews) – 3D game design.
-
-These artists were selected based on their expertise, ratings, and positive reviews.
+- **Elite Infected Hunts:** Seek out and eliminate the deadliest infected for legendary loot.
+- **Expedition Mode:** Venture deep into unexplored territory with high risks and high rewards.
+- **Underground Black Market:** Trade rare items, weapons, and information.
+- **Faction Leadership:** Gain control of a faction and lead them to dominance.
 
 ---
 
-# 10. New Features
+# 21. Secret Locations & Hidden Lore
 
-- **Dynamic NPC Economy:** Traders change prices based on scarcity.
-- **Custom Player Settlements:** Build and expand your own survivor colony.
-- **Underground Sewer System:** Navigate tunnels for hidden loot and ambush spots.
-- **Advanced AI for Zombies:** Learn player tactics and adapt behaviors.
+- **Abandoned Labs:** Full of classified documents, prototype weapons, and failed experiments.
+- **Lost Cities:** Buried under years of overgrowth, filled with mysteries.
+- **The Warlord’s Vault:** A hidden location rumored to contain high-tier weapons and resources.
+- **The Ghost Town:** An entire city where survivors vanished without a trace.
+
+---
+
+# 22. New Features
+
+- **Customizable NPC Companions:** Train survivors with unique skills.
+- **Hacking & Electronics:** Disable enemy defenses, control drones, or access locked locations.
+- **Dynamic NPC Missions:** Quests evolve based on world conditions and previous player choices.
+- **Underground Sewers & Tunnels:** Provides alternative routes, but also home to dangerous entities.
+- **Settlement Evolution System:** Safe zones develop based on player choices, with NPC population growing, upgrading facilities, and forming unique leadership structures.
+- **Food Chain System:** The infected interact with wildlife, leading to infected animals and changing ecosystem behaviors.
+- **Procedurally Generated Ruins:** Every playthrough offers new locations to discover with different loot and threats.
 
 ---
 
